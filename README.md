@@ -1,6 +1,6 @@
 # MyResources
 
-
+[](public/images/app.png)
 
 A first Vue app.
 
