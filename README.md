@@ -1,4 +1,7 @@
 # MyResources
+
+
+
 A first Vue app.
 
 This app is used to keep track of useful online resources. You can add and delete resources alongside viewing them. 
