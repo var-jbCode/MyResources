@@ -17,7 +17,7 @@ https://reverent-goldwasser-3f2786.netlify.app/
 
 ## To use locally: 
  
-1.clone the repo
+1. clone the repo
 
 2. run ```npm install```
 
