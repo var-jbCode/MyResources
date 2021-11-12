@@ -1,4 +1,3 @@
-# MyResources
 
 <img src="/public/images/app.png">
 
