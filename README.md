@@ -18,7 +18,9 @@ https://reverent-goldwasser-3f2786.netlify.app/
 ## To use locally: 
 
 1.clone the repo
+
 2. run ```npm install```
+
 3. run ```npm run serve``` to launch a development server
 
 Thanks for checking out my App.
